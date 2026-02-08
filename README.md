@@ -1,5 +1,6 @@
 # Vishnuprasad-Physics-AI
-
+### Hi there,
+I am Vishnuprasad Pradeepkumar Reshma, a particle physics graduate with interest in physics and LLMs. This platform is dedicated to show my works in particle physics and AI. 
 ---
 
 # Physics Projects
